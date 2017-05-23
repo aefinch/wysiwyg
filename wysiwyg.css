@@ -1,0 +1,14 @@
+.picture {
+	width: 300px;
+}
+
+.yellow {
+	background-color: lightYellow;
+}
+.blue {
+	background-color: lightBlue;
+}
+
+.dotBorder {
+	border: 1px dotted black;
+}
